@@ -42,7 +42,7 @@ A equipe é composta por 3 integrantes, sendo eles:
         <img src=./gif_img/thiago_souza.png
      alt="JThiago de Souza" width="250px;" height="250px"/>
       <br />
-      <a href="https://github.com/mashirozx">Thiago de Souza</a>
+      <a href="https://github.com/wzthiago">Thiago de Souza</a>
     </td>                 <!-- Thiago -->
    </tr>
  </table>
